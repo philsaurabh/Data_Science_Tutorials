@@ -16,7 +16,7 @@ Most notebooks are designed for **Google Colab**: open one, upload the CSV it ne
 | [`Machine-Learning-Tutorials-main/`](#3-machine-learning-classification-and-clustering) | Same notebooks as `MLDS_Demos-main/`, plus a Titanic assignment | 10 |
 | [`Knowings-main/`](#4-time-series-analysis-and-forecasting) | Time-series analysis and forecasting (statistical, ML and deep learning), plus extras | 18 |
 | [`Image-Processing-tutorials-main/`](#5-image-processing) | NumPy and image processing with Pillow, OpenCV and Keras | 2 |
-| [`Working-with-images-main/`](#6-working-with-video) | Video format conversion and key-frame extraction | 2 |
+| [`Working-with-images-main/`](#6-working-with-video) | Video format conversion, pdf merger and key-frame extraction | 3 |
 
 ## Getting started
 
@@ -109,7 +109,7 @@ Some notebooks need extra packages, listed under [Requirements](#requirements).
 | `Numpy_and_basics_tutorial.ipynb` | Python lists, tuples, sets and dictionaries, then NumPy arrays and operations |
 | `Image_processing_tutorial_numpy.ipynb` | Images as NumPy arrays: opening and inspecting images with Pillow, colour channels and conversion with OpenCV, cropping, resizing, and loading image data for Keras |
 
-## 6. Working with video
+## 6. Working with video to image and pdf
 
 `Working-with-images-main/`
 
@@ -117,7 +117,7 @@ Some notebooks need extra packages, listed under [Requirements](#requirements).
 |---|---|
 | `Folderwise_Video_format_conversion.ipynb` | Batch-convert every video in a folder to another format (moviepy) |
 | `Keyframe_Extraction.ipynb` | Extract key frames from every video in a folder with Katna |
-
+| `pdfmerger.ipynb` | Merging pdfs |
 ---
 
 ## Requirements
